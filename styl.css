@@ -40,7 +40,7 @@
         /* Hero Section */
         .hero {
             height: 100vh;
-            background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(img/rainforest.jpg);
+            background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(img/dark-forest-gloomy-scene-trees-big-moon-moonlight-smoke-shadow-abstract-cold-street-background-night-view-161594143.webp);
             background-size: cover;
             background-position: center;
             display: flex;
@@ -125,7 +125,7 @@
 
         /* Features Section */
         .features-section {
-            background-image: url(img/section\ .jpg);
+            background-image: url(img/forest.png);
             background-size: cover;
             background-position: center;
             padding: 5rem 2rem;
